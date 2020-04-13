@@ -1,0 +1,30 @@
+.parentbig {
+    background-color: blue;
+    height: 3000px;
+margin-top: 200px;
+padding: 10px;
+}
+
+.parent {
+    background-color: black;
+    height: 2400px;
+position: relative;
+padding: 10px;
+}
+.child {
+    font-size: 50px;
+
+}
+.child1 {
+    background-color: red;
+}
+.child2 {
+    background-color: #0f0;
+    position: sticky;
+    top: 200px;
+    left: 20px;
+    margin-top: 500px;
+}
+.child3 {
+    background-color: #f0f;
+}
